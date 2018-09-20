@@ -1,6 +1,6 @@
 # EasySetup
 
-用于商业用途的NSIS示例脚本(NSIS sample script for commercial usage.)
+📦 用于商业用途的NSIS示例脚本(NSIS sample script for commercial use.)
 
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/MFCer/EasySetup/blob/master/LICENSE)
 
